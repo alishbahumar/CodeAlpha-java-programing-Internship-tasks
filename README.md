@@ -167,6 +167,10 @@ Hotel-Reservation-System/
 ## 👩‍💻 Author
 
 **Alishbah Umar**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c359740-42b9-40ce-ac5f-f09874ed7ea3" />
+
+
+<img width="1600" height="854" alt="image" src="https://github.com/user-attachments/assets/f6b33ea6-a079-4be0-8f6c-f7be099df459" />
 
 
 
