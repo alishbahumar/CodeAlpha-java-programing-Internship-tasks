@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7f1df415-a691-4413-bd9f-8fad246d13e0" /># CodeAlpha-java-programing-Internship-tasks
+# CodeAlpha-java-programing-Internship-tasks
 🎓 Student Grade Tracker
 
 A Java-based Student Grade Tracker developed using Object-Oriented Programming (OOP) principles. This application helps users manage student records, store grades, and generate performance summaries.
@@ -167,6 +167,8 @@ Hotel-Reservation-System/
 ## 👩‍💻 Author
 
 **Alishbah Umar**
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2f438c59-17e5-4457-9e6f-586365f9f348" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c359740-42b9-40ce-ac5f-f09874ed7ea3" />
 
 
